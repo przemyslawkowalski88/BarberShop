@@ -1,0 +1,85 @@
+
+
+/* ======= COMPONENTS ======= */
+
+
+/* ======= END COMPONENT ======= */
+
+/* ======= HEADER ======= */
+
+
+
+/* ======= END HEADER ======= */
+
+/* ======= HERO ======= */
+
+
+
+/*---END HERO----*/
+
+/*--About US---*/
+
+
+/*--End About Us--*/
+
+/*--SERVICES --*/
+
+/* .services-list:nth-child(odd) {
+  background-image: linear-gradient(
+    180deg,
+    #171a24 0%,
+    rgba(23, 26, 36, 0.2) 100%
+  );
+}
+.services-list:nth-child(even) {
+  background-image: linear-gradient(
+    180deg,
+    #090b13 0%,
+    rgba(9, 11, 19, 0.2) 100%
+  );
+} */
+
+/*--END SERVICED--*/
+
+/*--WHY-US--*/
+
+/*--END-wHY-US--*/
+
+/*--OUR-BARBERS--*/
+
+
+/*--END-OUR-BARBERS--*/
+
+/*--GALLERY--*/
+
+
+/*--END GALLERY--*/
+
+/*--CONTACT--*/
+
+
+/*--END CONTACT--*/
+
+/*--FOOTER--*/
+
+/*--END FOOTER--*/
+
+/*---MODAL-WINDOWE---*/
+
+
+
+
+/* .modal-form-policy:checked + .modal-form-policy-text::before {
+  background-color: var(--main-color);
+  border: 3px solid #fff;
+  background-image: url(../images/Vector.svg);
+}
+.modal-form-policy-text::before {
+  display: inline-block;
+  content: "";
+  width: 16px;
+  height: 16px;
+  outline: 1px solid black;
+} */
+
+/*---END-MODAL-WINDOWE---*/
